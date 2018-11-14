@@ -28,4 +28,5 @@ if(message.content.split(' ')[0] == '*bc') {
         });
     }
 })
+client.login("NDczMTczOTExNDA0NTQ0MDAx.Ds3iAg.0aD59jBSK-Bf1EdC1LN-voxcFUY");
 client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
